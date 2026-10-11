@@ -149,8 +149,8 @@
 
 | Mac                                                       | Windows/Linux                                       | 기능                          |
 | --------------------------------------------------------- | --------------------------------------------------- | ----------------------------- |
-| <kbd>⌘</kbd> + <kbd>[</kbd>                               | <kbd>Ctrl</kbd> + <kbd>←</kbd>                      | 이전 페이지로 이동            |
-| <kbd>⌘</kbd> + <kbd>]</kbd>                               | <kbd>Ctrl</kbd> + <kbd>→</kbd>                      | 다음 페이지로 이동            |
+| <kbd>⌘</kbd> + <kbd>[</kbd>                               | <kbd>Ctrl</kbd> + <kbd>[</kbd>                      | 이전 페이지로 이동            |
+| <kbd>⌘</kbd> + <kbd>]</kbd>                               | <kbd>Ctrl</kbd> + <kbd>]</kbd>                      | 다음 페이지로 이동            |
 | <kbd>⌘</kbd> + <kbd>↑</kbd>                               | <kbd>Ctrl</kbd> + <kbd>↑</kbd>                      | 페이지 맨 위로 스크롤         |
 | <kbd>⌘</kbd> + <kbd>↓</kbd>                               | <kbd>Ctrl</kbd> + <kbd>↓</kbd>                      | 페이지 맨 아래로 스크롤       |
 | <kbd>⌘</kbd> + <kbd>R</kbd>                               | <kbd>Ctrl</kbd> + <kbd>R</kbd>                      | 페이지 새로고침               |

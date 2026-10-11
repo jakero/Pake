@@ -149,8 +149,8 @@
 
 | Mac                                                       | Windows/Linux                                       | 功能                 |
 | --------------------------------------------------------- | --------------------------------------------------- | -------------------- |
-| <kbd>⌘</kbd> + <kbd>[</kbd>                               | <kbd>Ctrl</kbd> + <kbd>←</kbd>                      | 返回上一頁           |
-| <kbd>⌘</kbd> + <kbd>]</kbd>                               | <kbd>Ctrl</kbd> + <kbd>→</kbd>                      | 前進到下一頁         |
+| <kbd>⌘</kbd> + <kbd>[</kbd>                               | <kbd>Ctrl</kbd> + <kbd>[</kbd>                      | 返回上一頁           |
+| <kbd>⌘</kbd> + <kbd>]</kbd>                               | <kbd>Ctrl</kbd> + <kbd>]</kbd>                      | 前進到下一頁         |
 | <kbd>⌘</kbd> + <kbd>↑</kbd>                               | <kbd>Ctrl</kbd> + <kbd>↑</kbd>                      | 自動捲動到頁面頂端   |
 | <kbd>⌘</kbd> + <kbd>↓</kbd>                               | <kbd>Ctrl</kbd> + <kbd>↓</kbd>                      | 自動捲動到頁面底部   |
 | <kbd>⌘</kbd> + <kbd>R</kbd>                               | <kbd>Ctrl</kbd> + <kbd>R</kbd>                      | 重新整理頁面         |
@@ -206,7 +206,7 @@ codex plugin add pake@pake
 
 ## 自訂開發
 
-需要 Rust `>=1.85` 與 Node `>=22`（推薦 LTS，較舊的 `>=20.9` 亦可使用），詳細安裝指南參考 [Tauri 文件](https://v2.tauri.app/start/prerequisites/)，不熟悉開發環境的話可以直接使用命令列工具。
+需要 Rust `>=1.85` 與 Node `>=22`（推薦 LTS，較舊的 `>=20.9` 也能用），詳細安裝指南參考 [Tauri 文件](https://v2.tauri.app/start/prerequisites/)，不熟悉開發環境的話可以直接使用命令列工具。
 
 ```bash
 # 安裝相依套件

@@ -149,8 +149,8 @@
 
 | Mac                                                       | Windows/Linux                                       | Funktion                           |
 | --------------------------------------------------------- | --------------------------------------------------- | ---------------------------------- |
-| <kbd>⌘</kbd> + <kbd>[</kbd>                               | <kbd>Ctrl</kbd> + <kbd>←</kbd>                      | Zurück zur vorherigen Seite        |
-| <kbd>⌘</kbd> + <kbd>]</kbd>                               | <kbd>Ctrl</kbd> + <kbd>→</kbd>                      | Vorwärts zur nächsten Seite        |
+| <kbd>⌘</kbd> + <kbd>[</kbd>                               | <kbd>Ctrl</kbd> + <kbd>[</kbd>                      | Zurück zur vorherigen Seite        |
+| <kbd>⌘</kbd> + <kbd>]</kbd>                               | <kbd>Ctrl</kbd> + <kbd>]</kbd>                      | Vorwärts zur nächsten Seite        |
 | <kbd>⌘</kbd> + <kbd>↑</kbd>                               | <kbd>Ctrl</kbd> + <kbd>↑</kbd>                      | Ganz nach oben scrollen            |
 | <kbd>⌘</kbd> + <kbd>↓</kbd>                               | <kbd>Ctrl</kbd> + <kbd>↓</kbd>                      | Ganz nach unten scrollen           |
 | <kbd>⌘</kbd> + <kbd>R</kbd>                               | <kbd>Ctrl</kbd> + <kbd>R</kbd>                      | Seite neu laden                    |
@@ -233,7 +233,7 @@ Pake wäre ohne diese großartigen Mitwirkenden nicht möglich ❤️
 
 - Die direkteste Unterstützung ist der Kauf meiner Mac-Bereinigungs-App [Mole for Mac](https://mole.fit)
 - Wenn Pake Ihnen geholfen hat, geben Sie dem Projekt einen Stern auf GitHub, [empfehlen Sie es weiter](https://twitter.com/intent/tweet?url=https://github.com/tw93/Pake&text=Pake%20-%20Verwandeln%20Sie%20jede%20Webseite%20mit%20einem%20einzigen%20Befehl%20in%20eine%20Desktop-App.%20Unterst%C3%BCtzt%20macOS,%20Windows%20und%20Linux) oder öffnen Sie ein Issue oder einen PR, auch für Websites, die sich gut als Desktop-App eignen
-- Ich habe zwei Katzen, TangYuan und Coke, und wenn Pake Ihren Alltag bereichert hat, spendieren Sie ihnen gerne ein <a href="https://cats.tw93.fun?name=Pake" target="_blank">Dosenfutter 🥩</a>
+- Ich habe zwei Katzen, TangYuan und Coke, und wenn Pake Ihren Alltag bereichert hat, spendieren Sie ihnen gerne eine <a href="https://cats.tw93.fun?name=Pake" target="_blank">Dose Futter 🥩</a>
 
 <details>
 <summary>Diese freundlichen Menschen haben bereits gespendet 🐱</summary>
